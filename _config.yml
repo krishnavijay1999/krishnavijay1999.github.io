@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vijaykrishna Gurunathan"
+title                    : null
 title_separator          : "-"
 name                     : &name "Vijaykrishna Gurunathan"
 description              : &description "Undergraduate, CSE IIT Bombay"
