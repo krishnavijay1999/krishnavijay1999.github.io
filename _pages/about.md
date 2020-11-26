@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate at the Indian Institute of Technology, Bombay majoring in Computer Science and Engineering. My interests are in theoretical CS. In particular, I am interested in algorithms and optimization and their interplay with topics such as geometry and statistics.
+I am a fourth year undergraduate at the Indian Institute of Technology, Bombay majoring in Computer Science and Engineering. I am broadly interested in theoretical computer science.
 
-In the past, I have worked in computational geometry with Prof. Sandor Fekete at TU Braunschweig. I have also worked on distributed optimization with Prof. Dan Alistarh at IST Austria.
-Currently I am working on my Bachelor's Thesis on questions in discrepancy theory.
+In the past, I have worked in computational geometry with Prof. Sandor Fekete at TU Braunschweig. I have also worked on distributed optimization with Prof. Dan Alistarh at IST Austria. Currently I am working in discrepancy theory for my Bachelor's Thesis.
 
 Publications
 ======
