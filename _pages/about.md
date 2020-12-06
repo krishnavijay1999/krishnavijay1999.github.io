@@ -16,7 +16,7 @@ Publications
 ======
 1. Packing Squares into a Disk with Optimal Worst-Case Density  
 S.P. Fekete, V. Gurunathan, K. Juneja, P. Keldenich, L. Kleist, C. Scheffer  
-Submitted
+Submitted \
 A short, preliminary version (extended abstract, 6 pages) appeared in European Workshop on Computational Geometry 2020 \[[video](https://www.youtube.com/watch?reload=9&v=nfy5m9B67Ek&feature=youtu.be)\]
 1. New Bounds For Distributed Mean Estimation and Variance Reduction  
 P. Davies, V. Gurunathan, N. Moshrefi, S. Ashkboos, D. Alistarh  
